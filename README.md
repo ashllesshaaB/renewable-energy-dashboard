@@ -19,4 +19,7 @@ This project is a Power BI dashboard that analyzes renewable energy production a
 - Identifies top energy-producing countries
 - Compares renewable energy sources
 - Helps understand energy distribution patterns
-- 
+
+  ## Author
+  *Ashlesha Badgujar*
+  
